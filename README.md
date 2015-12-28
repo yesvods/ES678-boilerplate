@@ -9,4 +9,3 @@ Full function boilerplate to take advantage of latest ECMAScript(JavaScript) Fea
 ### License
 
 MIT
-
